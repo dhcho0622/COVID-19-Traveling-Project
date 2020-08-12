@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-Used the dataset from worldometers.com ffor most up to data on COVID19 cases in the US
+Used the dataset from worldometers.com for most up to data on COVID19 cases in the US
 https://www.worldometers.info/coronavirus/country/us
 
 Used Yelp Dataset (200,000 businesses, millions of reviews & users)
