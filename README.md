@@ -3,11 +3,10 @@
 
 ## Introduction:
 
-Used the dataset from worldometers.com ffor most up to data on COVID19 cases in the US. 
+Used the dataset from worldometers.com ffor most up to data on COVID19 cases in the US
 https://www.worldometers.info/coronavirus/country/us
 
-Used Yelp Dataset (200,000 businesses, millions of reviews & users).
-
+Used Yelp Dataset (200,000 businesses, millions of reviews & users)
 https://www.yelp.com/dataset
 
 ## Objective:
@@ -40,7 +39,7 @@ Currently one notebook posted on GitHub. The Final Project notebook which consis
 
 ## How the Data Was Put Together:
 
-The data was gathered from over 200,000 different businesses from the YELP data set. Following that, the data was cleaned and supplemented with feature engineering. After EDA was performed to see which features had any statistical relationships with one another. Next the data set was put through various regression models to predict star ratings. In addition, webscrapping was pulled from world0meters.com to incorporate relevant COVID19 data. 
+The data was gathered from over 200,000 different businesses from the Yelp data set. Following that, the data was cleaned and supplemented with feature engineering. After EDA was performed to see which features had any statistical relationships with one another. Next the data set was put through various regression models to predict star ratings. In addition, webscrapping was pulled from world0meters.com to incorporate relevant COVID19 data. 
 
 ## Future Steps:
 
@@ -57,7 +56,7 @@ https://docs.google.com/presentation/d/1xy46YoCnQQYcBNtZE4EHbuo3UE1-ncaM6w38L4ID
 
 ## Visual:
 
-![](https://github.com/J-Joseph524/Rec_System_Project_JJ_DC/blob/jason-joseph/Count_of_Ratings.png)
+![](https://github.com/dhcho0622/Mod-5-Final-Project/blob/master/PNG_Visuals/Count_of_Ratings.png)
 
 
 
