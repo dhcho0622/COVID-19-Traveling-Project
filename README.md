@@ -35,6 +35,8 @@ The skills used to complete this project consisted of:
 
 Currently two notebooks posted on GitHub. The Webscrapping & Predicting notebook which consisted of the Data Cleaning, Collection & Modeling components of the supervised machine learning. The second notebook contains a recommendation system based off of the same cleaned data set using the COVID-19 features.
 
+Additionally, covapp.py contains the code used to create the front end dashboard for this project on streamlit
+
 ## Questions That Were Posed:
 
 * What kind of categories are the most common in the YELP data set
