@@ -1,4 +1,4 @@
-# Daniel-Final-Project
+# Daniel-COVID-19-Traveling-Project
 # Traveling Safely During COVID-19 Recommendation System
 
 ## Introduction:
